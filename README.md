@@ -11,4 +11,6 @@ GlobalCam: code for Global Shuttle Camera OV7251 (MIPI library)
 Other code .py: test file ...
 
 ## Update infomation
+Last modify code: 28/8/2024.
+
 More infomation will update soon.
